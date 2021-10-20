@@ -1,0 +1,141 @@
+Run,source_name
+SRR1313090,ER+ Breast Cancer Primary Tumor
+SRR1313091,ER+ Breast Cancer Primary Tumor
+SRR1313092,ER+ Breast Cancer Primary Tumor
+SRR1313093,ER+ Breast Cancer Primary Tumor
+SRR1313094,ER+ Breast Cancer Primary Tumor
+SRR1313095,ER+ Breast Cancer Primary Tumor
+SRR1313096,ER+ Breast Cancer Primary Tumor
+SRR1313097,ER+ Breast Cancer Primary Tumor
+SRR1313098,ER+ Breast Cancer Primary Tumor
+SRR1313099,ER+ Breast Cancer Primary Tumor
+SRR1313100,ER+ Breast Cancer Primary Tumor
+SRR1313101,ER+ Breast Cancer Primary Tumor
+SRR1313102,ER+ Breast Cancer Primary Tumor
+SRR1313103,ER+ Breast Cancer Primary Tumor
+SRR1313104,ER+ Breast Cancer Primary Tumor
+SRR1313105,ER+ Breast Cancer Primary Tumor
+SRR1313106,ER+ Breast Cancer Primary Tumor
+SRR1313107,ER+ Breast Cancer Primary Tumor
+SRR1313108,ER+ Breast Cancer Primary Tumor
+SRR1313109,ER+ Breast Cancer Primary Tumor
+SRR1313110,ER+ Breast Cancer Primary Tumor
+SRR1313111,ER+ Breast Cancer Primary Tumor
+SRR1313112,ER+ Breast Cancer Primary Tumor
+SRR1313113,ER+ Breast Cancer Primary Tumor
+SRR1313114,ER+ Breast Cancer Primary Tumor
+SRR1313115,ER+ Breast Cancer Primary Tumor
+SRR1313116,ER+ Breast Cancer Primary Tumor
+SRR1313117,ER+ Breast Cancer Primary Tumor
+SRR1313118,ER+ Breast Cancer Primary Tumor
+SRR1313119,ER+ Breast Cancer Primary Tumor
+SRR1313120,ER+ Breast Cancer Primary Tumor
+SRR1313121,ER+ Breast Cancer Primary Tumor
+SRR1313122,ER+ Breast Cancer Primary Tumor
+SRR1313123,ER+ Breast Cancer Primary Tumor
+SRR1313124,ER+ Breast Cancer Primary Tumor
+SRR1313125,ER+ Breast Cancer Primary Tumor
+SRR1313126,ER+ Breast Cancer Primary Tumor
+SRR1313127,ER+ Breast Cancer Primary Tumor
+SRR1313128,ER+ Breast Cancer Primary Tumor
+SRR1313129,ER+ Breast Cancer Primary Tumor
+SRR1313130,ER+ Breast Cancer Primary Tumor
+SRR1313131,ER+ Breast Cancer Primary Tumor
+SRR1313132,Triple Negative Breast Cancer Primary Tumor
+SRR1313133,Triple Negative Breast Cancer Primary Tumor
+SRR1313134,Triple Negative Breast Cancer Primary Tumor
+SRR1313135,Triple Negative Breast Cancer Primary Tumor
+SRR1313136,Triple Negative Breast Cancer Primary Tumor
+SRR1313137,Triple Negative Breast Cancer Primary Tumor
+SRR1313138,Triple Negative Breast Cancer Primary Tumor
+SRR1313139,Triple Negative Breast Cancer Primary Tumor
+SRR1313140,Triple Negative Breast Cancer Primary Tumor
+SRR1313141,Triple Negative Breast Cancer Primary Tumor
+SRR1313142,Triple Negative Breast Cancer Primary Tumor
+SRR1313143,Triple Negative Breast Cancer Primary Tumor
+SRR1313144,Triple Negative Breast Cancer Primary Tumor
+SRR1313145,Triple Negative Breast Cancer Primary Tumor
+SRR1313146,Triple Negative Breast Cancer Primary Tumor
+SRR1313147,Triple Negative Breast Cancer Primary Tumor
+SRR1313148,Triple Negative Breast Cancer Primary Tumor
+SRR1313149,Triple Negative Breast Cancer Primary Tumor
+SRR1313150,Triple Negative Breast Cancer Primary Tumor
+SRR1313151,Triple Negative Breast Cancer Primary Tumor
+SRR1313152,Triple Negative Breast Cancer Primary Tumor
+SRR1313153,Triple Negative Breast Cancer Primary Tumor
+SRR1313154,Triple Negative Breast Cancer Primary Tumor
+SRR1313155,Triple Negative Breast Cancer Primary Tumor
+SRR1313156,Triple Negative Breast Cancer Primary Tumor
+SRR1313157,Triple Negative Breast Cancer Primary Tumor
+SRR1313158,Triple Negative Breast Cancer Primary Tumor
+SRR1313159,Triple Negative Breast Cancer Primary Tumor
+SRR1313160,Triple Negative Breast Cancer Primary Tumor
+SRR1313161,Triple Negative Breast Cancer Primary Tumor
+SRR1313162,Triple Negative Breast Cancer Primary Tumor
+SRR1313163,Triple Negative Breast Cancer Primary Tumor
+SRR1313164,Triple Negative Breast Cancer Primary Tumor
+SRR1313165,Triple Negative Breast Cancer Primary Tumor
+SRR1313166,Triple Negative Breast Cancer Primary Tumor
+SRR1313167,Triple Negative Breast Cancer Primary Tumor
+SRR1313168,Triple Negative Breast Cancer Primary Tumor
+SRR1313169,Triple Negative Breast Cancer Primary Tumor
+SRR1313170,Triple Negative Breast Cancer Primary Tumor
+SRR1313171,Triple Negative Breast Cancer Primary Tumor
+SRR1313172,Triple Negative Breast Cancer Primary Tumor
+SRR1313173,Triple Negative Breast Cancer Primary Tumor
+SRR1313174,Normal
+SRR1313175,Normal
+SRR1313176,Normal
+SRR1313177,Normal
+SRR1313178,Normal
+SRR1313179,Normal
+SRR1313180,Normal
+SRR1313181,Normal
+SRR1313182,Normal
+SRR1313183,Normal
+SRR1313184,Normal
+SRR1313185,Normal
+SRR1313186,Normal
+SRR1313187,Normal
+SRR1313188,Normal
+SRR1313189,Normal
+SRR1313190,Normal
+SRR1313191,Normal
+SRR1313192,Normal
+SRR1313193,Normal
+SRR1313194,Normal
+SRR1313195,Normal
+SRR1313196,Normal
+SRR1313197,Normal
+SRR1313198,Normal
+SRR1313199,Normal
+SRR1313200,Normal
+SRR1313201,Normal
+SRR1313202,Normal
+SRR1313203,Normal
+SRR1313204,Normal
+SRR1313205,Normal
+SRR1313206,Normal
+SRR1313207,Normal
+SRR1313208,Normal
+SRR1313209,Normal
+SRR1313210,Normal
+SRR1313211,Normal
+SRR1313212,Normal
+SRR1313213,Normal
+SRR1313214,Normal
+SRR1313215,Normal
+SRR1313216,Normal
+SRR1313217,Normal
+SRR1313218,Normal
+SRR1313219,Normal
+SRR1313220,Normal
+SRR1313221,Normal
+SRR1313222,Normal
+SRR1313223,Normal
+SRR1313224,Normal
+SRR1313225,Normal
+SRR1313226,Normal
+SRR1313227,Normal
+SRR1313228,Normal
+SRR1313229,Normal
